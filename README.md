@@ -1,20 +1,22 @@
-=== AI Media Auto-Tagger (AI-MAT) ===
+=== OptiPix AI Image SEO ===
 Contributors: abdulkabeerdeveloper2530
-Tags: auto alt text, seo, image optimization, auto tagger, gemini ai, image seo
+Tags: auto alt text, seo, image optimization, auto tagger, gemini ai
 Requires at least: 5.8
-Tested up to: 6.4
+Tested up to: 6.9
 Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-AI Media Auto-Tagger automatically generates highly optimized SEO Alt Text and renames physical image files using Google Gemini AI.
+OptiPix AI Image SEO automatically generates highly optimized SEO Alt Text and renames physical image files using Google Gemini AI.
 
 == Description ==
 
-Welcome to **AI Media Auto-Tagger (AI-MAT)**, an enterprise-level, smart SEO automation tool for WordPress. Stop wasting hours writing alt text and renaming image files manually. AI-MAT uses the power of Google's Gemini Vision AI to instantly analyze your images, write descriptive SEO alt tags, and rename your physical files for maximum search engine visibility.
+Welcome to **OptiPix AI Image SEO**, an enterprise-level, smart SEO automation tool for WordPress.
 
-Unlike other plugins, AI-MAT comes with a **Smart Fallback Engine**. It dynamically discovers available AI models (like Gemini 3 Flash, Gemini 2.5, Gemma, and Robotics), and if one model reaches its free limit, it seamlessly routes the request to the next available model without interrupting your workflow.
+Stop wasting hours writing alt text and renaming image files manually. Our plugin uses the power of Google's Gemini Vision AI to instantly analyze your images, write descriptive SEO alt tags, and rename your physical files for maximum search engine visibility.
+
+Unlike other plugins, it comes with a **Smart Fallback Engine**. It dynamically discovers available AI models (like Gemini 3 Flash, Gemini 2.5, Gemma, and Robotics), and if one model reaches its free limit, it seamlessly routes the request to the next available model without interrupting your workflow.
 
 ### 🚀 Key Features:
 * **Smart Alt Text Generation:** Analyzes image context and writes perfect, keyword-rich alt texts.
@@ -29,10 +31,10 @@ Take your website's Image SEO to the next level on autopilot!
 
 == Installation ==
 
-1. Upload the `ai-media-auto-tagger` folder to the `/wp-content/plugins/` directory, or upload the ZIP file through the WordPress plugins screen.
+1. Upload the `optipix-ai-image-seo` folder to the `/wp-content/plugins/` directory, or upload the ZIP file through the WordPress plugins screen.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
-3. Go to the newly created **AI Tagger** menu in your WordPress dashboard.
-4. Enter your Google AI Studio API Key and click **Save & Verify API**.
+3. Go to the newly created **OptiPix AI** menu in your WordPress dashboard.
+4. Enter your Google AI Studio API Key and click **Save Settings**.
 5. You're all set! Start uploading images or bulk process your existing library.
 
 == Frequently Asked Questions ==
@@ -47,7 +49,7 @@ Yes! This is a premium agency-level feature. It not only updates the database bu
 The plugin has a professional error-catching system. It will display the exact reason (e.g., "File Too Large", "Unsupported Format", or "Content Blocked") right in your dashboard so you know exactly what to fix.
 
 = Is it safe for my existing website? =
-Absolutely. AI Media Auto-Tagger is built with strict WordPress security standards, using nonces, capability checks, and data sanitization to ensure your site remains secure.
+Absolutely. OptiPix AI Image SEO is built with strict WordPress security standards, using nonces, capability checks, and data sanitization to ensure your site remains secure.
 
 == Screenshots ==
 
